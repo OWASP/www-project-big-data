@@ -9,17 +9,9 @@ pitch: The goal of this project is to provide security requirements for Big Data
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+The OWASP Big Data Security Verification Standard (BDSVS) Project is part of the OWASP Big Data Program. As we all hear "data is the new oil" and enterprises are embracing Big Data like never before. A lot of concerns related to storage, transmission, mining, and analyzing data are an even bigger issue when regulation is on the table.
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
-
-type: code, tool, documentation, or other
+The primary goal of this project is to extend the traditional network security strategy, adding all the necessary levels of security for Big Data Environments, considering the data stages and the nuances the regulations are imposing on this type of project.
 
 ## Ready to Contribute?
 
