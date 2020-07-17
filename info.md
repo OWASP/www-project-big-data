@@ -1,4 +1,4 @@
-### Information
+### Project Classification
 * Documentation
 
 ### External Resources
