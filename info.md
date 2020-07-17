@@ -1,17 +1,10 @@
-### Big Data Security Verification Standard Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+### Project Classification
+* Documentation
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+### External Resources
+* [GitHub Repository](https://github.com/OWASP/www-project-big-data-security-verification-standard)
+* [Slack Channel](https://app.slack.com/client/T04T40NHX/C0171F041RR)
+* Twitter
 
-### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
-
+### Licensing
+The guide is licensed under the [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
