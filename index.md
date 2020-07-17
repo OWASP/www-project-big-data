@@ -4,8 +4,8 @@ layout: col-sidebar
 title: OWASP Big Data Security Verification Standard
 tags: example-tag
 level: 1
-type: 
-pitch: A very brief, one-line description of your project
+type: Documentation
+pitch: The goal of this project is to provide security requirements for Big Data applications
 
 ---
 
@@ -20,3 +20,12 @@ tags: This is a space-delimited list of tags you associate with your project or 
 level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
 
 type: code, tool, documentation, or other
+
+## Ready to Contribute?
+
+The BDSVS is a community-driven effort and we welcome contributions and feedback.
+
+We are in the early stages of development. If you would like to contribute to this project, please reach out to the project leaders either via email or via the OWASP Slack.
+
+* [Rodrigo Araujo](mailto:rodrigowpa@gmail.com)
+* [OWASP Slack](https://owasp.slack.com)
