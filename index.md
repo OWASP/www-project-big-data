@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Big Data Security Verification Standard
 tags: example-tag
-level: 1
+level: 2
 type: Documentation
 pitch: The goal of this project is to provide security requirements for Big Data applications
 
